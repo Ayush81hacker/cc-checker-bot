@@ -2,7 +2,7 @@
 
 ////////////////=============[Made with ❤️ by 𝐍𝐈𝐍𝐉𝐀 𝑩𝑰𝑵𝑵𝑬𝑹𝒁]===============////////////////
 
-///https://api.telegram.org/bot1517701750:AAHiyy4SRjcGfME0oe_nrVRu-H9sf1WJSZc/setwebhook?url=<url>
+///https://api.telegram.org/bot1841050193:AAH_r2HkDnGxlmWak6J8tKe9kM1TGvQfRso/setwebhook?url=<url>
 
 
 
