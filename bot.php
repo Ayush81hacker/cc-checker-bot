@@ -2,11 +2,11 @@
 
 ////////////////=============[Made with ❤️ by 𝐍𝐈𝐍𝐉𝐀 𝑩𝑰𝑵𝑵𝑬𝑹𝒁]===============////////////////
 
-///https://api.telegram.org/bot1517701750:AAHiyy4SRjcGfME0oe_nrVRu-H9sf1WJSZc/setwebhook?url=<url>
+///https://api.telegram.org/bot1841050193:AAH_r2HkDnGxlmWak6J8tKe9kM1TGvQfRso/setwebhook?url=<url>
 
 
 
-$botToken = "1517701750:AAHiyy4SRjcGfME0oe_nrVRu-H9sf1WJSZc"; // Enter ur bot token
+$botToken = "1841050193:AAH_r2HkDnGxlmWak6J8tKe9kM1TGvQfRso"; // Enter ur bot token
 $website = "https://api.telegram.org/bot".$botToken;
 error_reporting(0);
 $update = file_get_contents('php://input');
